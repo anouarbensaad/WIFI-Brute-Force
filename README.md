@@ -5,14 +5,14 @@
   </h1>
  <h1 align="center">
   <br>
-  <a href="https://github.com/BrahimJarrar/"><img src="screenshot/screen.PNG" alt="VulnX"></a>
+  <a href="https://github.com/BrahimJarrar/"><img src="screenshot/screen.PNG" alt="WifiBF"></a>
   </br>
 </h1>
 
 ### _🕷️ Available command line options_
 [`CopyRight`](https://github.com/BrahimJarrar/)
 
-    usage: vulnx [options]
+    usage: WIFI_BruteForce [options]
       -h , --help           show this help message and exit
       -s , --ssid           SSID WIFI Target
       -w , --wordlist       list of passwords
